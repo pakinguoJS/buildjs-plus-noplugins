@@ -1,0 +1,52 @@
+.ipick-alert-wrap{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.5);
+    z-index: 99;
+    opacity: 0;
+}
+.ipick-alert-main{
+    margin: 0 40px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.ipick-alert-icon{
+    text-align: center;
+}
+.ipick-alert-msg{
+    padding: 40px 30px;
+    text-align: center;
+    font-size: 1.75em;
+}
+.ipick-alert-ok{
+    border-top: 1px solid #b8b8b8;
+    color: #007aff;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 1.75em;
+    border-radius: 0 0 10px 10px;
+}
+.ipick-alert-ok:active{
+    background-color: #f9f9f9;
+}
+
+
+.ipick-alert-icon-success, .ipick-alert-icon-fail{
+    margin: 30px 0 -20px;
+}
+.ipick-alert-icon-success{
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    background: url("../img/ipick-alert-success.png");
+}
+.ipick-alert-icon-fail{
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+    background: url("../img/ipick-alert-fail.png");
+}

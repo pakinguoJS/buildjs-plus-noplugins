@@ -1,43 +1,48 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+/nbproject/private/
 
-# Folder config file
-Desktop.ini
+nbproject
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+*/bjs-watch/node_modules/chokidar/*
+*/chokidar/*
 
-# Windows shortcuts
-*.lnk
+*/colors/*
+*/json-nice/*
+*/rsyncwrapper/*
+*/grunt/*
 
-# =========================
-# Operating System Files
-# =========================
+*.log
 
-# OSX
-# =========================
 
-.DS_Store
-.AppleDouble
-.LSOverride
+*/bjs-command/flow-cmd-transport/node_modules/*
+*/bjs-command/flow-cmd-uglify/node_modules/*
+*/bjs-command/flow-css-minify/node_modules/*
 
-# Thumbnails
-._*
 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
+*/bjs-command/plugins/node_modules/*
+*/bjs-command/node_modules/grunt/*
+*/bjs-command/node_modules/clean-css/*
+*/bjs-command/node_modules/cmd-util/*
+*/bjs-command/node_modules/css/*
+*/bjs-command/node_modules/less/*
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+
+*/bjs-command/plugins/flow-css-sprite/node_modules/*
+*/bjs-command/plugins/css-less/node_modules/*
+
+
+*/bjs-cmd-command/flow-cmd-transport/node_modules/*
+*/bjs-cmd-command/flow-cmd-uglify/node_modules/*
+*/bjs-cmd-command/flow-css-minify/node_modules/*
+
+
+*/bjs-cmd-command/plugins/node_modules/*
+*/bjs-cmd-command/plugins/css-less/node_modules/*
+*/bjs-cmd-command/node_modules/grunt/*
+*/bjs-cmd-command/node_modules/clean-css/*
+*/bjs-cmd-command/node_modules/cmd-util/*
+*/bjs-cmd-command/node_modules/css/*
+*/bjs-cmd-command/node_modules/less/*
+
+
+*/bjs-cmd-command/plugins/flow-css-sprite/node_modules/*

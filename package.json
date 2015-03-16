@@ -1,0 +1,30 @@
+{
+  "name": "buildjs-plus",
+  "version": "0.2.3",
+  "description": "a plus version for buildjs",
+  "main": "run.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "json-nice": "~1.0.1",
+    "colors": "~1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pakinguoJS/buildjs-plus.git"
+  },
+  "keywords": [
+    "buildjs","buildjs-plus","bjs"
+  ],
+  "author": "pakinguo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pakinguoJS/buildjs-plus/issues"
+  },
+  "bin": {
+    "bjs": "bin/bjs"
+  }
+}

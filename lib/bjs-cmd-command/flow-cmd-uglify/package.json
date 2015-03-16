@@ -1,0 +1,15 @@
+{
+  "name": "flow-cmd-uglify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "task.js",
+  "dependencies": {
+    "uglify-js": "~2.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pakinguo",
+  "license": "MIT"
+}
